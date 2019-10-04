@@ -1,0 +1,21 @@
+#footer{
+    margin-top: 30px;
+    padding: 10px;
+    color: #fff;
+    background: #0c84e4;
+}
+
+#footer p{
+    margin-bottom: 0px;
+}
+
+.label{
+    color: white;
+    padding: 6px;
+}
+  
+.success {background-color: #4CAF50;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.warning {background-color: #ff9800;} /* Orange */
+.danger {background-color: #f44336;} /* Red */
+.other {background-color: #e7e7e7; color: black;} /* Gray */
